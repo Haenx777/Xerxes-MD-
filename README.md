@@ -40,7 +40,7 @@ please add the cred.json file to the session folder
           
 2.  **Fork My Repository**
           <br>
-<a href='https://github.com/Haenx777/Xerxes-MD-/blob/main/README.md' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork This Repo-black?style=for-the-badge&logo=git&logoColor=Blue'/></a>
+<a href='https://github.com/Haenx777/Xerxes-MD-/tree/main?tab=readme-ov-file' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork This Repo-black?style=for-the-badge&logo=git&logoColor=Blue'/></a>
       <br> 
      
  Get pairing code.
