@@ -19,7 +19,7 @@
 please add the cred.json file to the session folder
 
  ### ℹ️ **ABOUT XERXES-MD-BUG**
- Introducing Death-Raphael-bug , It is designed to bring a whole new level of excitement to your boring WhatsApp use.hope it might be helpful to all loosen hope we feel delightful to save you release your feedback and share our chuddy buddy </p>
+ Introducing Xerxes-MD-bug , It is designed to bring a whole new level of excitement to your boring WhatsApp use.hope it might be helpful to all loosen hope we feel delightful to save you release your feedback and share our chuddy buddy </p>
 
 
 `Ｆ•Ｅ•Ａ•Ｔ•Ｕ•Ｒ•Ｅ•Ｓ`
@@ -40,7 +40,7 @@ please add the cred.json file to the session folder
           
 2.  **Fork My Repository**
           <br>
-<a href='https://github.com/Haenx777/Xerxes-MD' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork This Repo-black?style=for-the-badge&logo=git&logoColor=Blue'/></a>
+<a href='https://github.com/Haenx777/Xerxes-MD-/blob/main/README.md' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork This Repo-black?style=for-the-badge&logo=git&logoColor=Blue'/></a>
       <br> 
      
  Get pairing code.
