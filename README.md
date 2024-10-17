@@ -2,7 +2,7 @@
   </p>
 <p align="center">
   <a href="https://chat.whatsapp.com/BgP9bJB30tB40VuTSApFfK">
-    <img alt=Support height="400" src="https://telegra.ph/file/7c4fb86c9575d9c0f4357.jpg"
+    <img alt=Support height="400" src="https://files.catbox.moe/2zbbbv.jpg"
     <p align="center">
   <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=ff00ab&center=true&vCenter=true&multiline=false&lines=BASE+BY+DGXEON." alt="">
 </p>
